@@ -1,10 +1,10 @@
 {
   "manifest_version": 3,
-  "name": "XYZ-Project",
-  "description": "Awesome Chrome Extension of XYZ-Project",
-  "version": "1.0",
-  "homepage_url": "https://github.com/XYZ-Project",
-  "author": "Your Name",
+  "name": "Verbatim Search",
+  "description": "Activate verbatim search mode",
+  "version": "1.1",
+  "homepage_url": "https://github.com/protiki/verbatim-search-chrome-extension",
+  "author": "Protik Islam-Jakobsson",
   "icons": {
     "16": "images/icon16.png",
     "19": "images/icon19.png",
