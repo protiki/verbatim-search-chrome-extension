@@ -6,7 +6,7 @@ If you find this helpful, please consider making a one-time donation to UNRWA (h
 
 ## Installation and setting a keyboard shortcut
 
-1. Download the repository as a zip file
+1. Download the repository as a zip file (green "code" dropdown menu in upper right corner)
 2. Open the chrome extensions page (three dots menu --> extensions).
 3. Activate "developer mode" (toggle in top right corner).
 4. Click "load unpacked" (top left).
